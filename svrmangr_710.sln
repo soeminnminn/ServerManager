@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "svrmangr", "svrmangr\svrmangr_710.vcproj", "{B6A42C2C-A883-454C-8093-E32310E9E328}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B6A42C2C-A883-454C-8093-E32310E9E328}.Debug.ActiveCfg = Debug|Win32
+		{B6A42C2C-A883-454C-8093-E32310E9E328}.Debug.Build.0 = Debug|Win32
+		{B6A42C2C-A883-454C-8093-E32310E9E328}.Release.ActiveCfg = Release|Win32
+		{B6A42C2C-A883-454C-8093-E32310E9E328}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

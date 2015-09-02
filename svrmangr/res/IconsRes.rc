@@ -1,0 +1,121 @@
+
+#ifndef ICONSRES_RC
+#define ICONSRES_RC
+
+#include <windows.h>
+#include "IconsRes.h"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ANALYSISSERVER                ICON                    "res\\Icons\\AnalysisServer.ico"
+IDI_ANALYSISSERVERERROR	ICON	"res\\Icons\\AnalysisServerError.ico"
+IDI_ANALYSISSERVERPAUSED	ICON	"res\\Icons\\AnalysisServerPaused.ico"
+IDI_ANALYSISSERVERRUNNING	ICON	"res\\Icons\\AnalysisServerRunning.ico"
+IDI_ANALYSISSERVERSTOPED	ICON	"res\\Icons\\AnalysisServerStoped.ico"
+IDI_ANALYSISSERVERSUPRESS	ICON	"res\\Icons\\AnalysisServerSupress.ico"
+IDI_ANALYSISSERVERUNKNOWN	ICON	"res\\Icons\\AnalysisServerUnknown.ico"
+
+IDI_FULLTEXTSEARCH	ICON	"res\\Icons\\Full-TextSearch.ico"
+IDI_FULLTEXTSEARCHERROR	ICON	"res\\Icons\\Full-TextSearchError.ico"
+IDI_FULLTEXTSEARCHPAUSED	ICON	"res\\Icons\\Full-TextSearchPaused.ico"
+IDI_FULLTEXTSEARCHRUNNING	ICON	"res\\Icons\\Full-TextSearchRunning.ico"
+IDI_FULLTEXTSEARCHSTOPED	ICON	"res\\Icons\\Full-TextSearchStoped.ico"
+IDI_FULLTEXTSEARCHSUPRESS	ICON	"res\\Icons\\Full-TextSearchSupress.ico"
+IDI_FULLTEXTSEARCHUNKNOWN	ICON	"res\\Icons\\Full-TextSearchUnknown.ico"
+
+IDI_INTEGRATIONSERVICES	ICON	"res\\Icons\\IntegrationServices.ico"
+IDI_INTEGRATIONSERVICESERROR	ICON	"res\\Icons\\IntegrationServicesError.ico"
+IDI_INTEGRATIONSERVICESPAUSED	ICON	"res\\Icons\\IntegrationServicesPaused.ico"
+IDI_INTEGRATIONSERVICESRUNNING	ICON	"res\\Icons\\IntegrationServicesRunning.ico"
+IDI_INTEGRATIONSERVICESSTOPED	ICON	"res\\Icons\\IntegrationServicesStoped.ico"
+IDI_INTEGRATIONSERVICESSUPRESS	ICON	"res\\Icons\\IntegrationServicesSupress.ico"
+IDI_INTEGRATIONSERVICESUNKNOWN	ICON	"res\\Icons\\IntegrationServicesUnknown.ico"
+		
+IDI_MSDTC	ICON	"res\\Icons\\MSDTC.ico"
+IDI_MSDTCERROR	ICON	"res\\Icons\\MSDTCError.ico"
+IDI_MSDTCPAUSED	ICON	"res\\Icons\\MSDTCPaused.ico"
+IDI_MSDTCRUNNING	ICON	"res\\Icons\\MSDTCRunning.ico"
+IDI_MSDTCSTOPED	ICON	"res\\Icons\\MSDTCStoped.ico"
+IDI_MSDTCSUPRESS	ICON	"res\\Icons\\MSDTCSupress.ico"
+IDI_MSDTCUNKNOWN	ICON	"res\\Icons\\MSDTCUnknown.ico"
+		
+IDI_NOTIFICATIONSERVICES	ICON	"res\\Icons\\NotificationServices.ico"
+IDI_NOTIFICATIONSERVICESERROR	ICON	"res\\Icons\\NotificationServicesError.ico"
+IDI_NOTIFICATIONSERVICESPAUSED	ICON	"res\\Icons\\NotificationServicesPaused.ico"
+IDI_NOTIFICATIONSERVICESRUNNING	ICON	"res\\Icons\\NotificationServicesRunning.ico"
+IDI_NOTIFICATIONSERVICESSTOPED	ICON	"res\\Icons\\NotificationServicesStoped.ico"
+IDI_NOTIFICATIONSERVICESSUPRESS	ICON	"res\\Icons\\NotificationServicesSupress.ico"
+IDI_NOTIFICATIONSERVICESUNKNOWN	ICON	"res\\Icons\\NotificationServicesUnknown.ico"
+		
+IDI_REPORTSERVER	ICON	"res\\Icons\\ReportServer.ico"
+IDI_REPORTSERVERERROR	ICON	"res\\Icons\\ReportServerError.ico"
+IDI_REPORTSERVERPAUSED	ICON	"res\\Icons\\ReportServerPaused.ico"
+IDI_REPORTSERVERRUNNING	ICON	"res\\Icons\\ReportServerRunning.ico"
+IDI_REPORTSERVERSTOPED	ICON	"res\\Icons\\ReportServerStoped.ico"
+IDI_REPORTSERVERSUPRESS	ICON	"res\\Icons\\ReportServerSupress.ico"
+IDI_REPORTSERVERUNKNOWN	ICON	"res\\Icons\\ReportServerUnknown.ico"
+		
+IDI_SERVER	ICON	"res\\Icons\\Server.ico"
+IDI_SERVERERROR	ICON	"res\\Icons\\ServerError.ico"
+IDI_SERVERPAUSED	ICON	"res\\Icons\\ServerPaused.ico"
+IDI_SERVERRUNNING	ICON	"res\\Icons\\ServerRunning.ico"
+IDI_SERVERSTOPED	ICON	"res\\Icons\\ServerStoped.ico"
+IDI_SERVERSUPRESS	ICON	"res\\Icons\\ServerSupress.ico"
+IDI_SERVERUNKNOWN	ICON	"res\\Icons\\ServerUnknown.ico"
+		
+IDI_SQLSERVERADHELPER	ICON	"res\\Icons\\SQLServerADHelper.ico"
+IDI_SQLSERVERADHELPERERROR	ICON	"res\\Icons\\SQLServerADHelperError.ico"
+IDI_SQLSERVERADHELPERPAUSED	ICON	"res\\Icons\\SQLServerADHelperPaused.ico"
+IDI_SQLSERVERADHELPERRUNNING	ICON	"res\\Icons\\SQLServerADHelperRunning.ico"
+IDI_SQLSERVERADHELPERSTOPED	ICON	"res\\Icons\\SQLServerADHelperStoped.ico"
+IDI_SQLSERVERADHELPERSUPRESS	ICON	"res\\Icons\\SQLServerADHelperSupress.ico"
+IDI_SQLSERVERADHELPERUNKNOWN	ICON	"res\\Icons\\SQLServerADHelperUnknown.ico"
+		
+IDI_SQLSERVERAGENT	ICON	"res\\Icons\\SQLServerAgent.ico"
+IDI_SQLSERVERAGENTERROR	ICON	"res\\Icons\\SQLServerAgentError.ico"
+IDI_SQLSERVERAGENTPAUSED	ICON	"res\\Icons\\SQLServerAgentPaused.ico"
+IDI_SQLSERVERAGENTRUNNING	ICON	"res\\Icons\\SQLServerAgentRunning.ico"
+IDI_SQLSERVERAGENTSTOPED	ICON	"res\\Icons\\SQLServerAgentStoped.ico"
+IDI_SQLSERVERAGENTSUPRESS	ICON	"res\\Icons\\SQLServerAgentSupress.ico"
+IDI_SQLSERVERAGENTUNKNOWN	ICON	"res\\Icons\\SQLServerAgentUnknown.ico"
+		
+IDI_SQLSERVERBROWSER	ICON	"res\\Icons\\SQLServerBrowser.ico"
+IDI_SQLSERVERBROWSERERROR	ICON	"res\\Icons\\SQLServerBrowserError.ico"
+IDI_SQLSERVERBROWSERPAUSED	ICON	"res\\Icons\\SQLServerBrowserPaused.ico"
+IDI_SQLSERVERBROWSERRUNNING	ICON	"res\\Icons\\SQLServerBrowserRunning.ico"
+IDI_SQLSERVERBROWSERSTOPED	ICON	"res\\Icons\\SQLServerBrowserStoped.ico"
+IDI_SQLSERVERBROWSERSUPRESS	ICON	"res\\Icons\\SQLServerBrowserSupress.ico"
+IDI_SQLSERVERBROWSERUNKNOWN	ICON	"res\\Icons\\SQLServerBrowserUnknown.ico"
+		
+IDI_SQLSERVER	ICON	"res\\Icons\\SQLServer.ico"
+IDI_SQLSERVERERROR	ICON	"res\\Icons\\SQLServerError.ico"
+IDI_SQLSERVERPAUSED	ICON	"res\\Icons\\SQLServerPaused.ico"
+IDI_SQLSERVERRUNNING	ICON	"res\\Icons\\SQLServerRunning.ico"
+IDI_SQLSERVERSTOPED	ICON	"res\\Icons\\SQLServerStoped.ico"
+IDI_SQLSERVERSUPRESS	ICON	"res\\Icons\\SQLServerSupress.ico"
+IDI_SQLSERVERUNKNOWN	ICON	"res\\Icons\\SQLServerUnknown.ico"
+		
+IDI_SQLWRITER	ICON	"res\\Icons\\SQLWriter.ico"
+IDI_SQLWRITERERROR	ICON	"res\\Icons\\SQLWriterError.ico"
+IDI_SQLWRITERPAUSED	ICON	"res\\Icons\\SQLWriterPaused.ico"
+IDI_SQLWRITERRUNNING	ICON	"res\\Icons\\SQLWriterRunning.ico"
+IDI_SQLWRITERSTOPED	ICON	"res\\Icons\\SQLWriterStoped.ico"
+IDI_SQLWRITERSUPRESS	ICON	"res\\Icons\\SQLWriterSupress.ico"
+IDI_SQLWRITERUNKNOWN	ICON	"res\\Icons\\SQLWriterUnknown.ico"
+		
+IDI_START	ICON	"res\\Icons\\Start.ico"
+IDI_START_D	ICON	"res\\Icons\\StartD.ico"
+IDI_STOP	ICON	"res\\Icons\\Stop.ico"
+IDI_STOP_D	ICON	"res\\Icons\\StopD.ico"
+IDI_PAUSE	ICON	"res\\Icons\\Pause.ico"
+IDI_PAUSE_D	ICON	"res\\Icons\\PauseD.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // ICONSRES_RC
+
